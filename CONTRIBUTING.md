@@ -6,9 +6,9 @@ To contribute,
 1. Work on your changes within a topic branch.
 1. Create a pull request
 
-Pull requests are accepted under the discretion of the SugarCRM XHprof Viewer maintainer(s). 
+Pull requests are accepted under the discretion of the Sugar Labs Drilldown Reporting maintainer(s). 
 Improve the chances your PR will be merged by following the requirements and guidelines below. 
-For any questions, please e-mail developers@sugarcrm.com.
+For any questions, please e-mail <blank>@sugarcrm.com.
 
 **REQUIREMENTS**
 - By creating a pull request, you are agreeing to [SugarCRM Open Source Contributor terms](CONTRIBUTOR_TERMS.pdf).
@@ -23,4 +23,4 @@ For any questions, please e-mail developers@sugarcrm.com.
 
 File bugs or feature requests using Github Issue Tracker.
 
-https://github.com/sugarcrm/xhprof-viewer/issues
+https://github.com/sugarcrmlabs/drilldownreporting/issues
