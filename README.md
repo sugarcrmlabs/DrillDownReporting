@@ -1,16 +1,11 @@
-# SugarCRM XHProf Viewer
+# Sugar Labs Drill Down Reporting
 
-SugarCRM XHProf viewer is an extended viewer based on the standard xhprof viewer by Facebook
-that shows some additional information like sql and elastic queries, their timing and stack traces.
+Sugar Labs Drill Down Reporting provides new features to Saved Reports Dashoets. It allows users to drill into the report being shown, while also giving drill down capabilities into each area od the report. This drill down navigates the user to a list view for that module, with filter parameters in place to show what entries made up the are of the chart clicked.
 
 ## Installation
-* Download the latest .tgz package here: https://github.com/sugarcrm/xhprof-viewer/releases/latest
-* Extract it to the web root of your web server
-* By default the viewer is looking to /tmp/profile_files for xhprof data files. In order to change it create
-a file `config_override.php` with the following content:
-```php
-<?php
-$config['profile_files_dir'] = '<PROFILE FILES LOCATION>';
+* Download the latest .tgz package here: https://github.com/sugarcrm/drilldownreporting/releases/latest
+* Load the package in your target instance using Module Loader
+* Create, or view, a dashboard with one or more Save Report Dashlets. The features will automatically be available on any Saved Report Dashlet.
 ```
 
 ## Contributing
