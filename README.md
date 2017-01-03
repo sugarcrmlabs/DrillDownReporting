@@ -3,7 +3,7 @@
 Sugar Labs Drill Down Reporting provides new features to Saved Reports Dashoets. It allows users to drill into the report being shown, while also giving drill down capabilities into each area od the report. This drill down navigates the user to a list view for that module, with filter parameters in place to show what entries made up the are of the chart clicked.
 
 ## Installation
-* Download the latest .tgz package here: https://github.com/sugarcrm/drilldownreporting/releases/latest
+* Download the latest .tgz package here: https://github.com/sugarcrmlabs/drilldownreporting/releases/latest
 * Load the package in your target instance using Module Loader
 * Create, or view, a dashboard with one or more Save Report Dashlets. The features will automatically be available on any Saved Report Dashlet.
 ```
